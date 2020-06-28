@@ -8,6 +8,9 @@
     </p>
     <h3>Installed CLI Plugins</h3>
      <div>123</div>
+    <div>第one修改</div>
+    <div>第two修改</div>
+    <div>master的再次添加</div>
     <ul>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-router" target="_blank" rel="noopener">router</a></li>
